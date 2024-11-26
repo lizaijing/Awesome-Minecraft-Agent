@@ -33,9 +33,9 @@
 ## Action-based Agent
 |  Title  |   Venue  |   Year  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/pdf/2410.17434) <br> | arXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Demo](https://huggingface.co/spaces/Vision-CAIR/LongVU) |
-| ![Star](https://img.shields.io/github/stars/shikiw/Modality-Integration-Rate.svg?style=social&label=Star) <br> [**Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**](https://arxiv.org/pdf/2410.07167) <br> | arXiv | 2024-10-09 | [Github](https://github.com/shikiw/Modality-Integration-Rate) | - |
-| ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf) <br> | ACL | 2022-12-21 | [Github](https://github.com/VT-NLP/MultiInstruct) | - | 
+| ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star) <br> [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/abs/2302.01560) <br> | NeurIPS | 2023 | [Github](https://github.com/CraftJarvis/MC-Planner) | [Demo](https://craftjarvis.github.io/) |
+| ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star) <br> [**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/abs/2311.05997) <br> | NeurIPS Workshop | 2023| [Github](https://github.com/CraftJarvis/JARVIS-1) | [Demo](https://craftjarvis-jarvis1.github.io/) |
+| ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1.svg?style=social&label=Star) <br> [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://arxiv.org/abs/2408.03615) <br> | NeurIPS | 2024 | [Github](https://github.com/JiuTian-VL/Optimus-1) | [Demo](https://cybertronagent.github.io/Optimus-1.github.io/) | 
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
