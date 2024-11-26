@@ -17,8 +17,6 @@
 ## Vision-driven Policy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/pdf/2410.17434) <br> | arXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Demo](https://huggingface.co/spaces/Vision-CAIR/LongVU) |
-| ![Star](https://img.shields.io/github/stars/shikiw/Modality-Integration-Rate.svg?style=social&label=Star) <br> [**Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**](https://arxiv.org/pdf/2410.07167) <br> | arXiv | 2024-10-09 | [Github](https://github.com/shikiw/Modality-Integration-Rate) | - |
 | ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf) <br> | ACL | 2022-12-21 | [Github](https://github.com/VT-NLP/MultiInstruct) | - | 
 
 ## Goal-conditioned Policy
