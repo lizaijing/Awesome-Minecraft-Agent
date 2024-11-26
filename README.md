@@ -1,43 +1,24 @@
 # Awesome-Multimodal-Large-Language-Models
 
-
 ---
-
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Policy](#awesome-policy)
-  - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
-  - [Multimodal Hallucination](#multimodal-hallucination)
-  - [Multimodal In-Context Learning](#multimodal-in-context-learning)
-  - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
-  - [LLM-Aided Visual Reasoning](#llm-aided-visual-reasoning)
-  - [Foundation Models](#foundation-models)
-  - [Evaluation](#evaluation)
-  - [Multimodal RLHF](#multimodal-rlhf)
-  - [Others](#others)
+  - [Vision-driven Policy](#vision-driven-policy)
+  - [Goaal-conditioned Policy](#goal-conditioned-policy)
+  
 - [Awesome Agent](#awesome-agents)
-  - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
-  - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
-  - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
-  - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
-  - [Datasets of Multimodal RLHF](#datasets-of-multimodal-rlhf)
-  - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
+  - [Action-based Agent](#action-based-agent)
+  - [Code-based Agent](#code-based-agent)
   - [Others](#others-1)
 ---
 
 # Awesome Policy
 
-## Multimodal Instruction Tuning
+## Vision-driven Policy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/pdf/2410.17434) <br> | arXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Demo](https://huggingface.co/spaces/Vision-CAIR/LongVU) |
 | ![Star](https://img.shields.io/github/stars/shikiw/Modality-Integration-Rate.svg?style=social&label=Star) <br> [**Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**](https://arxiv.org/pdf/2410.07167) <br> | arXiv | 2024-10-09 | [Github](https://github.com/shikiw/Modality-Integration-Rate) | - |
-| [**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**](https://arxiv.org/pdf/2409.17146) | arXiv | 2024-09-25 | [Huggingface](https://huggingface.co/allenai/MolmoE-1B-0924) | [Demo](https://molmo.allenai.org) |
-| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) <br> | arXiv | 2024-09-18 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2-VL) |
-| ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA.svg?style=social&label=Star) <br> [**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**](https://arxiv.org/pdf/2409.02889) <br> | arXiv | 2024-09-04 | [Github](https://github.com/FreedomIntelligence/LongLLaVA) | - | 
-| ![Star](https://img.shields.io/github/stars/NVlabs/Eagle.svg?style=social&label=Star) <br> [**EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**](https://arxiv.org/pdf/2408.15998) <br> | arXiv | 2024-08-28 | [Github](https://github.com/NVlabs/Eagle) | [Demo](https://huggingface.co/spaces/NVEagle/Eagle-X5-13B-Chat) |
-| ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**](https://www.arxiv.org/pdf/2408.04840) <br> | arXiv | 2024-08-09 | [Github](https://github.com/X-PLUG/mPLUG-Owl) | - |
-| ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA: Towards Open-Source Interactive Omni Multimodal LLM**](https://arxiv.org/pdf/2408.05211) <br> | arXiv | 2024-08-09 | [Github](https://github.com/VITA-MLLM/VITA) | - | 
-| ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star) <br> [**LLaVA-OneVision: Easy Visual Task Transfer**](https://arxiv.org/pdf/2408.03326) <br> | arXiv | 2024-08-06 | [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) | [Demo](https://llava-onevision.lmms-lab.com) | 
 | ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf) <br> | ACL | 2022-12-21 | [Github](https://github.com/VT-NLP/MultiInstruct) | - | 
 
 
