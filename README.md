@@ -17,7 +17,7 @@
 ## Vision-driven Policy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf) <br> | ACL | 2022-12-21 | [Github](https://github.com/VT-NLP/MultiInstruct) | - | 
+| ![Star](https://img.shields.io/github/stars/openai/Video-Pre-Training.svg?style=social&label=Star) <br> [**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**](https://arxiv.org/abs/2206.11795) <br> | NeurIPS | 2022 | [Github](https://github.com/openai/Video-Pre-Training) | - | 
 
 ## Goal-conditioned Policy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
