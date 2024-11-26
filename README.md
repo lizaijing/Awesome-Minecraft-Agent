@@ -36,9 +36,12 @@
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star) <br> [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/abs/2302.01560) <br> | NeurIPS | 2023 | [Github](https://github.com/CraftJarvis/MC-Planner) | [Demo](https://craftjarvis.github.io/) |
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star) <br> [**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/abs/2311.05997) <br> | NeurIPS Workshop | 2023| [Github](https://github.com/CraftJarvis/JARVIS-1) | [Demo](https://craftjarvis-jarvis1.github.io/) |
 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1.svg?style=social&label=Star) <br> [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://arxiv.org/abs/2408.03615) <br> | NeurIPS | 2024 | [Github](https://github.com/JiuTian-VL/Optimus-1) | [Demo](https://cybertronagent.github.io/Optimus-1.github.io/) | 
+| ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/abs/2312.07472) <br> | CVPR | 2024 | [Github](https://github.com/IranQin/MP5) | [Demo](https://iranqin.github.io/MP5.github.io/) | 
+| ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/abs/2312.07472) <br> | CVPR | 2024 | [Github](https://github.com/IranQin/MP5) | [Demo](https://iranqin.github.io/MP5.github.io/) | 
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/MineDojo/Voyager.svg?style=social&label=Star) <br> [**Voyager: An Open-Ended Embodied Agent with Large Language Models**](https://arxiv.org/abs/2305.16291) <br> |  NeurIPS | 2023 | [Github](https://github.com/MineDojo/Voyager) | [Demo](https://voyager.minedojo.org/) |
+|  [**RL-GPT: Integrating Reinforcement Learning and Code-as-policy**](https://arxiv.org/abs/2402.19299) <br> |  Arxiv | 2024 | - | [Demo](https://sites.google.com/view/rl-gpt) |
 
