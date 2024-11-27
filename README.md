@@ -2,7 +2,7 @@
 
 ## Our Minecraft Agent
 
-<h3><img src="./images/optimus.jpg" style="height: 2em; margin-right: 0.5em;">Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks</h3>  
+<h3><img src="./images/optimus.jpg" style="height: 1.5em; margin-right: 0.5em;">Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks</h3>  
 <p align="center">
     <img src="./images/framework.png" width="80%" height="80%">
 </p>
