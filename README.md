@@ -9,7 +9,7 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://cybertronagent.github.io/Optimus-1.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.03615)] [[🌟 GitHub](https://github.com/JiuTian-VL/Optimus-1)] </div></font>
 
-The Jiutian-Agent team proposes Optimus-1, a powerful multimodal agent in the open-world environment of Minecraft. ✨  
+The JiuTian-VL team proposes Optimus-1, a powerful multimodal agent in the open-world environment of Minecraft. ✨  
 
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
