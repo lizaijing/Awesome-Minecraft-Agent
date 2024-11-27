@@ -14,10 +14,7 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://cybertronagent.github.io/Optimus-1.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.03615)] [[🌟 GitHub](https://github.com/JiuTian-VL/Optimus-1)] </div></font>
 
-The VITA team proposes Freeze-Omni, a speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. 🌟 
-
-Freeze-Omni exhibits the characteristic of being **smart** as it is constructed upon a **frozen** text-modality LLM. This enables it to keep the original intelligence of the LLM backbone, without being affected by the forgetting problem induced by the fine-tuning process for integration of the speech modality. ✨ 
-
+The Jiutian-Agent team proposes Optimus-1, a powerful multimodal agent in the open-world environment of Minecraft. ✨  
 
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
