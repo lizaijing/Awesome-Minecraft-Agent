@@ -18,6 +18,7 @@
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/openai/Video-Pre-Training.svg?style=social&label=Star) <br> [**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**](https://arxiv.org/abs/2206.11795) <br> | NeurIPS | 2022 | [Github](https://github.com/openai/Video-Pre-Training) | - | 
+| ![Star](https://img.shields.io/github/stars/CraftJarvis/GROOT.svg?style=social&label=Star) <br> [**GROOT: Learning to Follow Instructions by Watching Gameplay Videos**](https://arxiv.org/abs/2310.08235) <br> | ICLR | 2024 | [Github](https://github.com/CraftJarvis/GROOT) | [Demo](https://craftjarvis.github.io/GROOT/)| 
 
 ## Goal-conditioned Policy
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
@@ -26,7 +27,6 @@
 | ![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star) <br> [**Mastering Diverse Domains through World Models**](https://arxiv.org/abs/2301.04104v2) <br> | Arxiv | 2023 | [Github](https://github.com/danijar/dreamerv3) | [Demo](https://danijar.com/project/dreamerv3/) |
 | ![Star](https://img.shields.io/github/stars/Shalev-Lifshitz/STEVE-1.svg?style=social&label=Star) <br> [**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**](https://arxiv.org/abs/2306.00937) <br> | NeurIPS | 2023 | [Github](https://github.com/Shalev-Lifshitz/STEVE-1) | [Demo](https://sites.google.com/view/steve-1) |
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Controller.svg?style=social&label=Star) <br> [**Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**](https://arxiv.org/abs/2301.10034) <br> | CVPR | 2023 | [Github](https://github.com/CraftJarvis/MC-Controller) | - |
-| ![Star](https://img.shields.io/github/stars/CraftJarvis/GROOT.svg?style=social&label=Star) <br> [**GROOT: Learning to Follow Instructions by Watching Gameplay Videos**](https://arxiv.org/abs/2310.08235) <br> | ICLR | 2024 | [Github](https://github.com/CraftJarvis/GROOT) | [Demo](https://craftjarvis.github.io/GROOT/)| 
 | ![Star](https://img.shields.io/github/stars/Zhoues/MineDreamer.svg?style=social&label=Star) <br> [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/abs/2403.12037) <br> | NeurIPS Workshop | 2024 | [Github](https://github.com/Zhoues/MineDreamer/) | [Demo](https://sites.google.com/view/minedreamer/main)| 
 | [**Vision-Language Models Provide Promptable Representations for Reinforcement Learning**](https://arxiv.org/abs/2402.02651) <br> | Arxiv | 2024 | [Github](https://github.com/pr2l/pr2l.github.io/tree/master/static/notebooks) | - | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/ROCKET-1.svg?style=social&label=Star) <br> [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | Arxiv | 2024 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
