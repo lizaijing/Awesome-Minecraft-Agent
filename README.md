@@ -9,7 +9,7 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://cybertronagent.github.io/Optimus-1.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.03615)] [[🌟 GitHub](https://github.com/JiuTian-VL/Optimus-1)] </div></font>
 
-We propose a Hybrid Multimodal Memory module that integrates structured knowledge and multimodal experiences into the memory mechanism of the agent. On top of it, we introduce a powerful Minecraft agent, Optimus-1, which achieves a 30\% improvement over existing agents on 67 long-horizon tasks. ✨  
+We propose a **Hybrid Multimodal Memory** module that integrates structured knowledge and multimodal experiences into the memory mechanism of the agent. On top of it, we introduce a powerful Minecraft agent, **Optimus-1**, which achieves a **30\%** improvement over existing agents on **67** long-horizon tasks. ✨  
 
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
