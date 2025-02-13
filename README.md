@@ -43,6 +43,7 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
 | [**Vision-Language Models Provide Promptable Representations for Reinforcement Learning**](https://arxiv.org/abs/2402.02651) <br> | Arxiv | 2024 | [Github](https://github.com/pr2l/pr2l.github.io/tree/master/static/notebooks) | - | 
 | ![Star](https://img.shields.io/github/stars/PKU-RL/CLIP4MC.svg?style=social&label=Star) <br> [**Reinforcement Learning Friendly Vision-Language Model for MineCraft**](https://arxiv.org/abs/2303.10571) <br> | ECCV | 2024 | [Github](https://github.com/PKU-RL/CLIP4MC) | - | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/ROCKET-1.svg?style=social&label=Star) <br> [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | Arxiv | 2024 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
+|  [**GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents**](https://arxiv.org/abs/2412.10410) <br> | ICLR | 2025 | - | - | 
 
 ---
 
