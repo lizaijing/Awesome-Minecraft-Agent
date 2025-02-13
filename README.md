@@ -61,6 +61,7 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1.svg?style=social&label=Star) <br> [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://arxiv.org/abs/2408.03615) <br> | NeurIPS | 2024 | [Github](https://github.com/JiuTian-VL/Optimus-1) | [Demo](https://cybertronagent.github.io/Optimus-1.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/abs/2312.07472) <br> | CVPR | 2024 | [Github](https://github.com/IranQin/MP5) | [Demo](https://iranqin.github.io/MP5.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/OmniJarvis.svg?style=social&label=Star) <br> [**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**](https://arxiv.org/abs/2407.00114) <br> | NeurIPS | 2024 | [Github](https://github.com/CraftJarvis/OmniJarvis) | [Demo](https://omnijarvis.github.io/) | 
+| [**MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) <br> | ICLR | 2025 | - | [Demo](https://sites.google.com/view/mr-steve) | 
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
