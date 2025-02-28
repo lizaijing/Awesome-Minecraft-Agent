@@ -11,6 +11,16 @@
 
 We propose a **Hybrid Multimodal Memory** module that integrates structured knowledge and multimodal experiences into the memory mechanism of the agent. On top of it, we introduce a powerful Minecraft agent, **Optimus-1**, which achieves a **30\%** improvement over existing agents on **67** long-horizon tasks. ✨  
 
+<h3><img src="./images/optimus2.png" style="height: 2em; margin-right: 0.5em;">Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy</h3>  
+<p align="center">
+    <img src="./images/framework2.pdf" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' >[[📖 arXiv Paper](https://arxiv.org/abs/2502.19902)] </div></font>
+
+We propose a **Hybrid Multimodal Memory** module that integrates structured knowledge and multimodal experiences into the memory mechanism of the agent. On top of it, we introduce a powerful Minecraft agent, **Optimus-1**, which achieves a **30\%** improvement over existing agents on **67** long-horizon tasks. ✨  
+
+
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Policy](#awesome-policy)
