@@ -62,6 +62,8 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
 | ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/abs/2312.07472) <br> | CVPR | 2024 | [Github](https://github.com/IranQin/MP5) | [Demo](https://iranqin.github.io/MP5.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/OmniJarvis.svg?style=social&label=Star) <br> [**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**](https://arxiv.org/abs/2407.00114) <br> | NeurIPS | 2024 | [Github](https://github.com/CraftJarvis/OmniJarvis) | [Demo](https://omnijarvis.github.io/) | 
 | [**MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) <br> | ICLR | 2025 | - | [Demo](https://sites.google.com/view/mr-steve) | 
+| [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | CVPR | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
+| [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | - | - | 
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
