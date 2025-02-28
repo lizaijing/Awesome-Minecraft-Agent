@@ -9,7 +9,7 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://cybertronagent.github.io/Optimus-1.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.03615)] [[🌟 GitHub](https://github.com/JiuTian-VL/Optimus-1)] </div></font>
 
-We propose a **Hybrid Multimodal Memory** module that integrates structured knowledge and multimodal experiences into the memory mechanism of the agent. On top of it, we introduce a powerful Minecraft agent, **Optimus-1**, which achieves a **30\%** improvement over existing agents on **67** long-horizon tasks. ✨  
+we propose Optimus-2, a novel Minecraft agent that incorporates a Multimodal Large Language Model (MLLM) for high-level planning, alongside a Goal-Observation-Action Conditioned Policy (GOAP) for low-level control. **Optimus-2** exhibits superior performance across atomic tasks, long-horizon tasks, and open-ended instruction tasks in Minecraft. ✨  
 
 <h3><img src="./images/optimus2.png" style="height: 2em; margin-right: 0.5em;">Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy</h3>  
 <p align="center">
