@@ -13,7 +13,7 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
 
 <h3><img src="./images/optimus2.png" style="height: 2em; margin-right: 0.5em;">Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy</h3>  
 <p align="center">
-    <img src="./images/framework2.pdf" width="80%" height="80%">
+    <img src="./images/framework2.png" width="80%" height="80%">
 </p>
 
 <font size=7><div align='center' >[[📖 arXiv Paper](https://arxiv.org/abs/2502.19902)] </div></font>
