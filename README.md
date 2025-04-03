@@ -16,7 +16,7 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
     <img src="./images/framework2.png" width="80%" height="80%">
 </p>
 
-<font size=7><div align='center' >[[📖 arXiv Paper](https://arxiv.org/abs/2502.19902)] </div></font>
+<font size=7><div align='center' >[[🍎 Project Page](https://cybertronagent.github.io/Optimus-2.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2502.19902)] [[🌟 GitHub](https://github.com/lizaijing/Optimus-2)] </div></font>
 
 We propose agent Optimus-2 which incorporates a Multimodal Large Language Model for high-level planning, alongside a Goal-Observation-Action Conditioned Policy (GOAP) for low-level control. **Optimus-2** exhibits superior performance across atomic tasks, long-horizon tasks, and open-ended instruction tasks in Minecraft. ✨
 
@@ -55,6 +55,7 @@ We propose agent Optimus-2 which incorporates a Multimodal Large Language Model 
 | ![Star](https://img.shields.io/github/stars/PKU-RL/CLIP4MC.svg?style=social&label=Star) <br> [**Reinforcement Learning Friendly Vision-Language Model for MineCraft**](https://arxiv.org/abs/2303.10571) <br> | ECCV | 2024 | [Github](https://github.com/PKU-RL/CLIP4MC) | - | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/ROCKET-1.svg?style=social&label=Star) <br> [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | Arxiv | 2024 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
 |  [**GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents**](https://arxiv.org/abs/2412.10410) <br> | ICLR | 2025 | - | - | 
+| [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
 
 ---
 
