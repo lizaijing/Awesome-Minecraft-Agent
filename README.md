@@ -46,16 +46,18 @@ We propose agent Optimus-2 which incorporates a Multimodal Large Language Model 
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/MineDojo/MineDojo.svg?style=social&label=Star) <br> [**MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://arxiv.org/abs/2206.08853) <br> | NeurIPS | 2022 | [Github](https://github.com/MineDojo/MineDojo) | [Demo](https://minedojo.org/) |
-| ![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star) <br> [**Mastering Diverse Domains through World Models**](https://arxiv.org/abs/2301.04104v2) <br> | Arxiv | 2023 | [Github](https://github.com/danijar/dreamerv3) | [Demo](https://danijar.com/project/dreamerv3/) |
+| ![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star) <br> [**Mastering Diverse Domains through World Models**](https://arxiv.org/abs/2301.04104v2) <br> | Nature | 2025 | [Github](https://github.com/danijar/dreamerv3) | [Demo](https://danijar.com/project/dreamerv3/) |
 | ![Star](https://img.shields.io/github/stars/Shalev-Lifshitz/STEVE-1.svg?style=social&label=Star) <br> [**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**](https://arxiv.org/abs/2306.00937) <br> | NeurIPS | 2023 | [Github](https://github.com/Shalev-Lifshitz/STEVE-1) | [Demo](https://sites.google.com/view/steve-1) |
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Controller.svg?style=social&label=Star) <br> [**Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**](https://arxiv.org/abs/2301.10034) <br> | CVPR | 2023 | [Github](https://github.com/CraftJarvis/MC-Controller) | - |
 | ![Star](https://img.shields.io/github/stars/Zhoues/MineDreamer.svg?style=social&label=Star) <br> [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/abs/2403.12037) <br> | NeurIPS Workshop | 2024 | [Github](https://github.com/Zhoues/MineDreamer/) | [Demo](https://sites.google.com/view/minedreamer/main)| 
 | ![Star](https://img.shields.io/github/stars/PKU-RL/PTGM.svg?style=social&label=Star) <br> [**Pre-Training Goal-Based Models for Sample-Efficient Reinforcement Learning**](https://openreview.net/forum?id=o2IEmeLL9r) <br> | ICLR | 2024 | [Github](https://github.com/PKU-RL/PTGM) | - | 
 | [**Vision-Language Models Provide Promptable Representations for Reinforcement Learning**](https://arxiv.org/abs/2402.02651) <br> | Arxiv | 2024 | [Github](https://github.com/pr2l/pr2l.github.io/tree/master/static/notebooks) | - | 
 | ![Star](https://img.shields.io/github/stars/PKU-RL/CLIP4MC.svg?style=social&label=Star) <br> [**Reinforcement Learning Friendly Vision-Language Model for MineCraft**](https://arxiv.org/abs/2303.10571) <br> | ECCV | 2024 | [Github](https://github.com/PKU-RL/CLIP4MC) | - | 
-| ![Star](https://img.shields.io/github/stars/CraftJarvis/ROCKET-1.svg?style=social&label=Star) <br> [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | Arxiv | 2024 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
+| ![Star](https://img.shields.io/github/stars/CraftJarvis/ROCKET-1.svg?style=social&label=Star) <br> [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | CVPR | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
 |  [**GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents**](https://arxiv.org/abs/2412.10410) <br> | ICLR | 2025 | - | - | 
 | [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
+| [**ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**](https://arxiv.org/abs/2503.02505) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-2) | [Demo](https://craftjarvis.github.io/ROCKET-2/) | 
+| [**Open-World Skill Discovery from Unsegmented Demonstrations**](https://arxiv.org/abs/2503.10684) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/SkillDiscovery) | [Demo](https://craftjarvis.github.io/SkillDiscovery/) | 
 
 ---
 
@@ -76,6 +78,7 @@ We propose agent Optimus-2 which incorporates a Multimodal Large Language Model 
 | [**MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) <br> | ICLR | 2025 | - | [Demo](https://sites.google.com/view/mr-steve) | 
 | [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | CVPR | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
 | [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
+| [**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**](https://arxiv.org/abs/2503.16365) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/JarvisVLA) | [Demo](https://craftjarvis.github.io/JarvisVLA/) | 
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
