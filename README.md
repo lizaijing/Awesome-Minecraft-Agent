@@ -76,7 +76,6 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**](https://arxiv.org/abs/2503.16365) <br> | Findings of ACL | 2025 | [Github](https://github.com/CraftJarvis/JarvisVLA) | [Demo](https://craftjarvis.github.io/JarvisVLA/) | 
-
 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-3.svg?style=social&label=Star) <br> [**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**](https://arxiv.org/abs/2506.10357) <br> | Arxiv | 2025 | [Github](https://github.com/JiuTian-VL/Optimus-3) | [Demo](https://cybertronagent.github.io/Optimus-3.github.io/) | 
 
 ## Hierarchical Architecture
