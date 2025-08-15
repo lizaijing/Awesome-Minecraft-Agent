@@ -20,6 +20,15 @@ We propose a **Hybrid Multimodal Memory** module that integrates structured know
 
 We propose agent Optimus-2 which incorporates a Multimodal Large Language Model for high-level planning, alongside a Goal-Observation-Action Conditioned Policy (GOAP) for low-level control. **Optimus-2** exhibits superior performance across atomic tasks, long-horizon tasks, and open-ended instruction tasks in Minecraft. ✨
 
+<h3><img src="./images/optimus3.png" style="height: 2em; margin-right: 0.5em;">Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts</h3>  
+<p align="center">
+    <img src="./images/framework3.png" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' >[[🍎 Project Page](https://cybertronagent.github.io/Optimus-3.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2506.10357)] [[🌟 GitHub](https://github.com/lizaijing/Optimus-3)] </div></font>
+
+We propose generalist agent, **Optimus-3**, endowed with multidimensional capabilities including Captioning, Embodied QA, Planning, Action, Grounding, and Reflection. Our comprehensive evaluation demonstrates that it consistently surpasses existing agents in the Minecraft environment across all assessed dimensions. ✨
+
 
 
 ---
