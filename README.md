@@ -38,8 +38,8 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
   - [Goal-conditioned Policy](#goal-conditioned-policy)
   
 - [Awesome Agent](#awesome-agents)
-  - [Policy-based Agent](#policy-based-agent)
-  - [Code-based Agent](#code-based-agent)
+  - [End-to-end Architecture](#end-to-end-architecture)
+  - [Hierarchical Architecture](#hierarchical-architecture)
 
 ---
 
@@ -66,13 +66,18 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 |  [**GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents**](https://arxiv.org/abs/2412.10410) <br> | ICLR | 2025 | - | - | 
 | [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
 | [**ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**](https://arxiv.org/abs/2503.02505) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-2) | [Demo](https://craftjarvis.github.io/ROCKET-2/) | 
-| [**Open-World Skill Discovery from Unsegmented Demonstrations**](https://arxiv.org/abs/2503.10684) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/SkillDiscovery) | [Demo](https://craftjarvis.github.io/SkillDiscovery/) | 
+| [**Open-World Skill Discovery from Unsegmented Demonstrations**](https://arxiv.org/abs/2503.10684) <br> | ICCV | 2025 | [Github](https://github.com/CraftJarvis/SkillDiscovery) | [Demo](https://craftjarvis.github.io/SkillDiscovery/) | 
 
 ---
 
 # Awesome Agent
 
-## Policy-based Agent
+## End-to-end Architecture
+| [**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**](https://arxiv.org/abs/2503.16365) <br> | Findings of ACL | 2025 | [Github](https://github.com/CraftJarvis/JarvisVLA) | [Demo](https://craftjarvis.github.io/JarvisVLA/) | 
+
+| ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-3.svg?style=social&label=Star) <br> [**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**](https://arxiv.org/abs/2506.10357) <br> | Arxiv | 2025 | [Github](https://github.com/JiuTian-VL/Optimus-3) | [Demo](https://cybertronagent.github.io/Optimus-3.github.io/) | 
+
+## Hierarchical Architecture
 |  Title  |   Venue  |   Year  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star) <br> [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/abs/2302.01560) <br> | NeurIPS | 2023 | [Github](https://github.com/CraftJarvis/MC-Planner) | [Demo](https://craftjarvis.github.io/) |
@@ -87,7 +92,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | [**MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) <br> | ICLR | 2025 | - | [Demo](https://sites.google.com/view/mr-steve) | 
 | [**ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting**](https://arxiv.org/abs/2410.17856) <br> | CVPR | 2025 | [Github](https://github.com/CraftJarvis/ROCKET-1) | [Demo](https://craftjarvis.github.io/ROCKET-1/) | 
 | [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
-| [**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**](https://arxiv.org/abs/2503.16365) <br> | Arxiv | 2025 | [Github](https://github.com/CraftJarvis/JarvisVLA) | [Demo](https://craftjarvis.github.io/JarvisVLA/) | 
+
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
