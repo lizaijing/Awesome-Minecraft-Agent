@@ -105,7 +105,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | ![Star](https://img.shields.io/github/stars/zju-vipa/Odyssey.svg?style=social&label=Star) <br> [**Odyssey: Empowering Minecraft Agents with Open-World Skills**](https://arxiv.org/abs/2407.15325) <br> |  IJCAI | 2025 | [Github](https://github.com/zju-vipa/Odyssey) | - |
 | ![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star) <br> [**See and Think: Embodied Agent in Virtual Environment**](https://arxiv.org/abs/2311.15209) <br> |  ECCV | 2024 | [Github](https://github.com/rese1f/STEVE) | [Demo](https://rese1f.github.io/STEVE/) |
 | [**RL-GPT: Integrating Reinforcement Learning and Code-as-policy**](https://arxiv.org/abs/2402.19299) <br> |  NeurIPS | 2024 | - | [Demo](https://sites.google.com/view/rl-gpt) |
-| [**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**](https://arxiv.org/abs/2405.17424) <br> |  Arxiv | 2024 | - | [Demo](https://lizhuoling.github.io/LARM_webpage/) |
+| [**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**](https://arxiv.org/abs/2405.17424) <br> |  ICML | 2025 | - | [Demo](https://lizhuoling.github.io/LARM_webpage/) |
 | [**Luban: Building Open-Ended Creative Agents via Autonomous Embodied Verification**](https://arxiv.org/abs/2405.15414) <br> |  Arxiv | 2024 | - | - |
 | [**WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**](https://arxiv.org/abs/2410.07484) <br> |  Arxiv | 2024 | [Github](https://github.com/elated-sawyer/WALL-E) | - |
 
