@@ -117,10 +117,14 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 # Benchmark
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1.svg?style=social&label=Star) <br> [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://arxiv.org/abs/2408.03615) <br> | NeurIPS | 2024 | [Github](https://github.com/JiuTian-VL/Optimus-1) | [Demo](https://cybertronagent.github.io/Optimus-1.github.io/) | 
+| ![Star](https://img.shields.io/github/stars/JiuTian-VL/Optimus-3.svg?style=social&label=Star) <br> [**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**](https://arxiv.org/abs/2506.10357) <br> | Arxiv | 2025 | [Github](https://github.com/JiuTian-VL/Optimus-3) | [Demo](https://cybertronagent.github.io/Optimus-3.github.io/) | 
 | [**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**](https://arxiv.org/abs/2601.05215) <br> |  Arxiv  | 2026 | - | - |
 | ![Star](https://img.shields.io/github/stars/aialt/PillagerBench.svg?style=social&label=Star) <br> [**PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments**](https://arxiv.org/abs/2509.06235) <br> |  CoG  | 2025 | [Github](https://github.com/aialt/PillagerBench) | - |
 | [**Investigating Feasibility of Large Language Model Agent Collaboration in Minecraft and Comparison with Human-Human Collaboration**](https://aclanthology.org/2025.ijcnlp-long.73/) <br> |  IJCNLP-AACL  | 2025 | - | - |
-| ![Star](https://img.shields.io/github/stars/MineAnyBuild/MineAnyBuild.svg?style=social&label=Star) <br> [**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**](https://arxiv.org/abs/2505.20148) <br> |  Arxiv  | 2025 | [Github](https://github.com/MineAnyBuild/MineAnyBuild) | [Demo](https://mineanybuild.github.io/) |
+| ![Star](https://img.shields.io/github/stars/MineAnyBuild/MineAnyBuild.svg?style=social&label=Star) <br> [**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**](https://arxiv.org/abs/2505.20148) <br> |  NeurIPS  | 2025 | [Github](https://github.com/MineAnyBuild/MineAnyBuild) | [Demo](https://mineanybuild.github.io/) |
+| [**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**](https://arxiv.org/abs/2406.05720) <br> |  Findings of ACL  | 2024 | [Github](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) | - |
+
 
 
 
