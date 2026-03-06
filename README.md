@@ -95,7 +95,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | [**Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**](https://arxiv.org/abs/2502.19902) <br> | CVPR | 2025 | [Github](https://github.com/dawn0815/Optimus-2) | [Demo](https://cybertronagent.github.io/Optimus-2.github.io/) | 
 | [**BAR: ABackward Reasoning based Agent for Complex Minecraft Tasks**](https://aclanthology.org/2025.findings-acl.318.pdf) <br> |  Findings of ACL  | 2025 | [Github](https://github.com/SCUNLP/BAR) | - |
 | [**Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds**](https://aclanthology.org/2025.findings-acl.1169/) <br> |  Findings of ACL   | 2025 | - | - |
-
+| [**M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory**](https://aclanthology.org/2025.findings-acl.1191/) <br> |  Findings of ACL  | 2025 | - | - |
 
 ## Code-based Agent
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
@@ -111,7 +111,6 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | [**Luban: Building Open-Ended Creative Agents via Autonomous Embodied Verification**](https://arxiv.org/abs/2405.15414) <br> |  Arxiv | 2024 | - | - |
 | [**WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**](https://arxiv.org/abs/2410.07484) <br> |  Arxiv | 2024 | [Github](https://github.com/elated-sawyer/WALL-E) | - |
 | [**ADAM: An Embodied Causal Agent in Open-World Environments**](https://proceedings.iclr.cc/paper_files/paper/2025/hash/392aae924264f2c56d1895b232bb46b6-Abstract-Conference.html?utm_source=chatgpt.com) <br> |  ICLR | 2025 | [Github](https://opencausalab.github.io/ADAM/) | - |
-| [**M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory**](https://aclanthology.org/2025.findings-acl.1191/) <br> |  Findings of ACL  | 2025 | - | - |
 | [**VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft**](https://aclanthology.org/2025.emnlp-main.1111/) <br> |  EMNLP  | 2025 | - | - |
 | [**CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks**](https://aclanthology.org/2025.findings-emnlp.777/) <br> |  Findings of EMNLP  | 2025 | - | - |
 | ![Star](https://img.shields.io/github/stars/ml-postech/XENON.svg?style=social&label=Star) <br> [**Experience-based Knowledge Correction for Robust Planning in Minecraft**](https://arxiv.org/abs/2505.24157) <br> |  ICLR  | 2026 | [Github](https://github.com/ml-postech/XENON) | - |
