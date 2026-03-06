@@ -115,6 +115,8 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | [**CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks**](https://aclanthology.org/2025.findings-emnlp.777/) <br> |  Findings of EMNLP  | 2025 | - | - |
 
 # Benchmark
+|  Title  |   Venue  |   Year   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | [**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**](https://arxiv.org/abs/2601.05215) <br> |  Arxiv  | 2026 | - | - |
 | ![Star](https://img.shields.io/github/stars/aialt/PillagerBench.svg?style=social&label=Star) <br> [**PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments**](https://arxiv.org/abs/2509.06235) <br> |  CoG  | 2025 | [Github](https://github.com/aialt/PillagerBench) | - |
 | [**Investigating Feasibility of Large Language Model Agent Collaboration in Minecraft and Comparison with Human-Human Collaboration**](https://aclanthology.org/2025.ijcnlp-long.73/) <br> |  IJCNLP-AACL  | 2025 | - | - |
