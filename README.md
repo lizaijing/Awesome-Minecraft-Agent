@@ -40,7 +40,9 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 - [Awesome Agent](#awesome-agents)
   - [End-to-end Architecture](#end-to-end-architecture)
   - [Hierarchical Architecture](#hierarchical-architecture)
+  - [Code based Agent ](#code-based-agent)
 
+- [Benchmark](#benchmark)
 ---
 
 # Awesome Policy
