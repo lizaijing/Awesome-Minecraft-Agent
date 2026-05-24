@@ -34,7 +34,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Policy](#awesome-policy)
-  - [Vision-driven Policy](#vision-driven-policy)
+  - [Visuomotor Policy](#visuomotor-policy)
   - [Goal-conditioned Policy](#goal-conditioned-policy)
   
 - [Awesome Agent](#awesome-agents)
@@ -47,7 +47,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 
 # Awesome Policy
 
-## Vision-driven Policy
+## Visuomotor Policy
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/openai/Video-Pre-Training.svg?style=social&label=Star) <br> [**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**](https://arxiv.org/abs/2206.11795) <br> | NeurIPS | 2022 | [Github](https://github.com/openai/Video-Pre-Training) | - | 
