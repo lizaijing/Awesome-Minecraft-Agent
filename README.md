@@ -52,6 +52,7 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/openai/Video-Pre-Training.svg?style=social&label=Star) <br> [**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**](https://arxiv.org/abs/2206.11795) <br> | NeurIPS | 2022 | [Github](https://github.com/openai/Video-Pre-Training) | - | 
 | ![Star](https://img.shields.io/github/stars/CraftJarvis/GROOT.svg?style=social&label=Star) <br> [**GROOT: Learning to Follow Instructions by Watching Gameplay Videos**](https://arxiv.org/abs/2310.08235) <br> | ICLR | 2024 | [Github](https://github.com/CraftJarvis/GROOT) | [Demo](https://craftjarvis.github.io/GROOT/)| 
+| [**Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent**](https://arxiv.org/abs/2407.12161) <br> | ICML MI Workshop | 2024 | - | - |
 
 ## Goal-conditioned Policy
 |  Title  |   Venue  |   Year   |   Code   |   Demo   |
@@ -126,6 +127,12 @@ We propose generalist agent, **Optimus-3**, endowed with multidimensional capabi
 | [**Investigating Feasibility of Large Language Model Agent Collaboration in Minecraft and Comparison with Human-Human Collaboration**](https://aclanthology.org/2025.ijcnlp-long.73/) <br> |  IJCNLP-AACL  | 2025 | - | - |
 | ![Star](https://img.shields.io/github/stars/MineAnyBuild/MineAnyBuild.svg?style=social&label=Star) <br> [**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**](https://arxiv.org/abs/2505.20148) <br> |  NeurIPS  | 2025 | [Github](https://github.com/MineAnyBuild/MineAnyBuild) | [Demo](https://mineanybuild.github.io/) |
 | [**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**](https://arxiv.org/abs/2406.05720) <br> |  Findings of ACL  | 2024 | [Github](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) | - |
+| [**The MineRL Competition on Sample Efficient Reinforcement Learning using Human Priors**](https://arxiv.org/abs/1904.10079) <br> | NeurIPS Competition | 2019 | [Github](https://github.com/minerllabs/minerl) | - |
+| [**The MineRL 2020 Competition on Sample Efficient Reinforcement Learning using Human Priors**](https://arxiv.org/abs/2101.11071) <br> | NeurIPS Competition | 2020 | [Github](https://github.com/minerllabs/minerl) | - |
+| [**The MineRL BASALT Competition on Learning from Human Feedback**](https://arxiv.org/abs/2107.01969) <br> | NeurIPS Competition | 2021 | [Github](https://github.com/minerllabs/minerl) | - |
+| [**MineRL Diamond 2021 Competition: Overview, Results, and Lessons Learned**](https://arxiv.org/abs/2202.10583) <br> | PMLR | 2022 | - | - |
+| [**Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**](https://arxiv.org/abs/2303.13512) <br> | PMLR | 2023 | - | - |
+| [**BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks**](https://arxiv.org/abs/2312.02405) <br> | NeurIPS D&B | 2023 | [Github](https://github.com/minerllabs/basalt-benchmark) | - |
 
 
 
